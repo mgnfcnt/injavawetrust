@@ -1,4 +1,4 @@
-### Javaya nasil baslarim ? Nasil ogrenirim ?
+### Javaya nasil baslarim? Nasil ogrenirim ?
 
 * Degerli Akin Kaldiroglu hocamizin yazilarini inceleyelim:
     * http://www.javaturk.org/?p=2128
@@ -54,7 +54,7 @@ Direkt grup yoneticilerine soru sormanizda bir problem yok tabiki ama bir sorunu
 
 Sorunuzu sorarken anlasilir, detayli bir sekilde sormaya ozen gosterin. Oncelikle kendi arastirmanizi yapin sonrasinda soru sorun.
 
-Soru sormak ile ilgili daha ayrintili bilgi icin[nasil akillica soru sorulur][how-to-ask-smart-questions] kaynagini **_mutlaka_** okumanizi oneririz.
+Soru sormak ile ilgili daha ayrintili bilgi icin [nasil akillica soru sorulur][how-to-ask-smart-questions] kaynagini **_mutlaka_** okumanizi oneririz.
 
 [how-to-ask-smart-questions]: http://liste.ctis.bilkent.edu.tr/Linux/belgeler.org/howto/smart-questions.html
 
