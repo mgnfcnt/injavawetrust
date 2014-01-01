@@ -3,4 +3,11 @@ injavawetrust
 
 A Clone of the resources of the [Facebook group with the same name][in-java-we-trust] (content is mostly Turkish)
 
+
+### Katilimcilar
+
+**[FAQ](FAQ.md)** dosyasinin orjinali **[Levent Erguder](https://github.com/leventerguder)**e aittir.
+
+Projeye katkida bulunan diger kisileri <https://github.com/v0lkan/injavawetrust/graphs/contributors> linkinden takip edebilirsiniz.
+
 [in-java-we-trust]: https://www.facebook.com/groups/injavawetrust/
