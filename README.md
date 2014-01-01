@@ -6,7 +6,7 @@ A Clone of the resources of the [Facebook group with the same name][in-java-we-t
 
 ### Katilimcilar
 
-**[FAQ](FAQ.md)** dosyasinin orjinali **[Levent Erguder](https://github.com/leventerguder)**e aittir.
+**[FAQ](FAQ.md)** dosyasinin ilk hali **[Levent Erguder](https://github.com/leventerguder)**e aittir (Facebook grubundaki benzer isimli dosyadan buraya kopyalandi).
 
 Projeye katkida bulunan diger kisileri <https://github.com/v0lkan/injavawetrust/graphs/contributors> linkinden takip edebilirsiniz.
 
