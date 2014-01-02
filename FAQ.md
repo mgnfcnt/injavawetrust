@@ -155,9 +155,14 @@ Turkce kaynaklar sizi sadece orta seviyeye kadar tasir. Daha ilerisi ve sektorde
 * <www.quickanddirtytips.com/grammar-girl> da guzel bir sitedir.
 * “Ben internetten degil, okul ortaminda ogrenirim” derseniz, <http://www.wse.com.tr/> metodoloji olarak cok basarili. Eger ogrenme isteginiz varsa cok iyi duzeyde Ingilizce sahibi olabilirsiniz. Ingilizce egitimi veren ucretli ve ucretsiz baska okul ve topluluklar da var.
 
-### Sorular ve Cevaplar
+## Sorular ve Cevaplar
 
-#### Bilgisayar alcam da tavsiye edebileceginiz bir tane var mıi ?
+### Yurt disinda calismak istiyorum, ne yapmaliyim?
+
+// to be edited.
+
+
+### Bilgisayar alcam da tavsiye edebileceginiz bir tane var mıi ?
 
 > Oncelikle ben bu konularda uzman biri degilim, aslinda henuz hic bir konuda uzman degilim :)
 > Yaklasik 3 yildir  Acer Aspire 7741G kullaniyorum(2011 ocak/subat). Ogrencilikte 1400tl gibi bir
@@ -172,7 +177,7 @@ Turkce kaynaklar sizi sadece orta seviyeye kadar tasir. Daha ilerisi ve sektorde
 > 
 > &ndash; **Levent Erguder**
 
-#### Java Ogrenecegim, Bana Yol Gosterin
+### Java Ogrenecegim, Bana Yol Gosterin
 
 >…Bu yaz üniversiteden mezun oldum ve yoluma Java ile devam etmeye karar verdim ve bu konuda ısrarcı davranıyorum.
 > Yeni teknolojiler öğrenmeye çalışıyorum.Ancak bu konuda bu kadar istekli olmama rağman henüz iş hayatına adım atamadım.
@@ -233,7 +238,7 @@ Turkce kaynaklar sizi sadece orta seviyeye kadar tasir. Daha ilerisi ve sektorde
 >  
 > &ndash; **Levent Erguder**
 
-#### Programlama Bilmiyorum, Nerden Baslamaliyim?
+### Programlama Bilmiyorum, Nerden Baslamaliyim?
 
 > Eger herhangi bir programlama dili gormemisse henuz, C ile baslamasi en uygunu. 
 > Zaman kaybi sayilmaz. Java'yi takriben 10 senede ogrenecegin dusunulurse; yarim seneni temel C ile gecirmek oldukca faydali olur. 
@@ -243,7 +248,7 @@ Turkce kaynaklar sizi sadece orta seviyeye kadar tasir. Daha ilerisi ve sektorde
 > 
 > &ndash; **Volkan Ozcelik**
 
-#### Java'ya bakayım dedim.Ağır geldi ilk aşamada.C#'ta umanlaşıp sonra Java geçiş yapmam mümkün olurmu ilerde ?
+### Java'ya bakayım dedim.Ağır geldi ilk aşamada.C#'ta umanlaşıp sonra Java geçiş yapmam mümkün olurmu ilerde ?
 
 Java'nin Basitlik (Simple) ozelliginden kasit, Javayi gozu kapali ogrenirsin demek degildir. Bir dilde uzmanlasmak en azindan 5-10 senelik bir konudur.
 
@@ -251,7 +256,7 @@ Temel gramerlerinden sonra birbirine gecme islemi cok sorun olmaz. Ilerleyen don
 
 Oncelikle “aski bulmak" icin gerekli calismalari yapalim. Sonrasinda kararimizi verelim mutlu mesut yasayalim. Kafasinda 2 kadin olan adam gelgitler icinde olur :)
 
-#### **GitHub**in Onemli Oldugunu Soyluyorsunuz. Projemi de Yukledim. Open Source Projemi Gelistirecek Insan Ariyorum. Nasil Bulabilirim?
+### **GitHub**in Onemli Oldugunu Soyluyorsunuz. Projemi de Yukledim. Open Source Projemi Gelistirecek Insan Ariyorum. Nasil Bulabilirim?
 
 > Merhaba hocam github’i hayatima sokmaya basladim.
 > 
