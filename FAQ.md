@@ -15,6 +15,11 @@
 * Blog yazilari: 
     * http://www.injavawetrust.com/java/
 * Faydali Java Linkleri / Some Useful Links
+    * http://docs.oracle.com/javase/tutorial/
+    * http://docs.oracle.com/javase/6/docs/api/
+    * http://docs.oracle.com/javase/7/docs/api/
+    * http://docs.oracle.com/javase/specs/
+    * http://www.java2s.com/Tutorial/Java/CatalogJava.htm
     * http://www.javaworld.com/
     * http://www.java-samples.com/index.php
     * http://www.xml.com/pub/rg/XML_and_Java_Tutorials
@@ -28,8 +33,6 @@
     * http://www.javacodegeeks.com/java/
     * http://java.dzone.com/
     * http://www.roseindia.net/
-    * http://docs.oracle.com/javase/7/docs/api/index.html
-    * http://docs.oracle.com/javase/specs/jls/se7/jls7.pdf
     * http://javarevisited.blogspot.com/
     * http://helpdesk-software.ws/it/29-04-2004.htm
     * http://mrbool.com/
@@ -47,7 +50,17 @@
     * http://www.javaturk.org/?p=1846
 * Iyi Bir CV/Resume Nasil Hazirlanir?
     * http://www.javaturk.org/?p=1044
- 
+   
+### Oracle Certified Professional, Java SE 6 Programmer Hakkinda // Ileri duzey Java SE bilgisi icin
+Mezun olduktan sonra Java ilanlari icin is gorusmesine gittiginizde size bu sinavlarda cikan sorulara benzer 10/15 soruluk bir test
+yapan yerler olacaktir. Ayrica her yerde abstract class , interface , Thread , Collection  vb konularda soru soracaklardir.
+Oturup bu sertifikayi alir cebinize koyarsaniz is buyuk olcude sizin olacaktir.
+
+Ileri duzey Java SE bilgisi gerektiren ve hazirlanildiginda ciddi anlamda Java SE bilgisi kazandiracak ve sektorde faydasini goreceginiz bu sertifikaya dair bilgiyi,kaynaklari ve daha fazlasini detayli bir sekilde surada bulabilirsiniz;
+
+http://www.injavawetrust.com/oracle-certified-professional-java-se-6-programmer-hakkinda/
+
+
 ### Bir sorum var, sorabilir miyim ?
 
 Direkt grup yoneticilerine soru sormanizda bir problem yok tabiki ama bir sorunuz oldugunda sorunuzu grupta dilediginiz gibi sorabilirsiniz, soruya birden fazla kisi cevap verdiginde daha dogru, daha farkli bilgiler ortaya cikacaktir :)
@@ -57,6 +70,26 @@ Sorunuzu sorarken anlasilir, detayli bir sekilde sormaya ozen gosterin. Oncelikl
 Soru sormak ile ilgili daha ayrintili bilgi icin [nasil akillica soru sorulur][how-to-ask-smart-questions] kaynagini **_mutlaka_** okumanizi oneririz.
 
 [how-to-ask-smart-questions]: http://liste.ctis.bilkent.edu.tr/Linux/belgeler.org/howto/smart-questions.html
+
+#### Odevim Var, Yardim Edin!
+
+Odevler, projeler sizin sorumlulugunuzda. Odevler ve projeler uzerinde ciddi olarak caba harcanmamissa yardimci olmuyorum. Malesef saatlerce oturup odevinizle projenizle ilgilenecek vaktim yok, projede odevde asil tikanilan sorun nedir , neler yapildi neler yapilmadi ne kadar calisildi kafa yoruldu butun bu parametrelerle birlikte duzgunce soru sorulursa cozum daha kolay olabilir. Universite zamani ugrastigimiz projelerde bazi geceler ertesi gun aksam 5 e kadar hic uyumadik, en az bu vakte kadar hic uyumadan calismadan "cok calisim olmadi " diye bahane uretmeyin :)
+
+> bana javada yan yana ve yukarıdan aşağıya doğru 1 den başlayıp 9 a kadar ve sonra 0 dan yine 9 kadar sayıları ekrana girilen sayıya kadar yazan programı söyleyebilir misiniz?
+
+Bu tarz sorulara yardimci olmuyoruz. Cunku bu konulara yardim etmek size yarar degil zarar saglar.
+
+> Problem sizin probleminiz; odev de sizin odeviniz. Bu odeve yapip, yeni seyler ogrenecek kisi de sizsiniz. **Java tembellere gore bir dil degildir**. Eger caba gostermek istemiyorsaniz, yol yakinken baska bir ugras secin kendinize.
+
+Bunun Java ile bir ilgisi yok. donguler, degiskenler vb konular "temel" noktalardir. Bunun icin once oturup C gibi bir dilde calisin.
+
+Tekrar ediyorum; Gercekten caba gosterilmeyen konularda yardimci olmuyoruz. 
+
+1-2 for dongusu ile cozulebilecek konulari hic ugrasmadan soruyorsaniz ve EN ONEMLI nokta bunla ugrasmaktan keyif almiyorsaniz, bu isi birakin.
+
+Herkes yazilimci olmak zorunda degil :)
+
+
 
 ### Is bulabilir miyim ? Acikta kalir miyim ?
 
@@ -115,9 +148,8 @@ Egğer java kullanacaksan, Arayüzde JSF, library olarak da Primefaces kullanman
 
 ### Hangi IDE kullanilmalidir ?
 
-Ogrencilikte ben daha cok Netbeans kullaniyordum. Sektorde daha cok Eclispe kullanilmaktadir.Suan ikisini birlikte kullaniyorum. Bir kac ide yi kullanmak asina olmak daha iyi olacaktir.
-
-Farkli ideleri deneyip hangisini daha cok severseniz onu kullanabilirsiniz. Sektorel oneri olarak mutlaka Eclipse. Yeni baslayan ogrenci arkadaslara onerim Netbeans olacaktir.
+Ogrencilikte ben daha cok Netbeans kullaniyordum. Sektorde daha cok Eclispe kullanilmaktadir. Bazi yerler de IntelliJ IDEA kullanilmaktadir.Bu urun ucretli bir IDEdir, kullanlarin baya memnun oldugunu soyleyebilirim. 
+Bir kac ide yi kullanmak asina olmak daha iyi olacaktir. Sektorel oneri olarak mutlaka Eclipse. Yeni baslayan ogrenci arkadaslara onerim Netbeans olacaktir. Burada onemli nokta kullandiginiz IDEye hakim olmaya calisin. Bu verimlilik, hiz saglayacaktir.
 
 # Oneriler
 
@@ -326,23 +358,6 @@ Oncelikle baskalarinin yaptigi projelere destek olmali, bol bol katkida bulunmal
 [ozgurluk]: https://gist.github.com/v0lkan/7766288
 [in-java-we-trust]: https://www.facebook.com/groups/injavawetrust/
 
-#### Odevim Var, Yardim Edin!
-
-> bana javada yan yana ve yukarıdan aşağıya doğru 1 den başlayıp 9 a kadar ve sonra 0 dan yine 9 kadar sayıları ekrana girilen sayıya kadar yazan programı söyleyebilir misiniz?
-
-Bu ve benzeri sorulara cevap olarak:
-
-Bu tarz sorulara yardimci olmuyoruz. Cunku bu konulara yardim etmek size yarar degil zarar saglar.
-
-> Problem sizin probleminiz; odev de sizin odeviniz. Bu odeve yapip, yeni seyler ogrenecek kisi de sizsiniz. &ndsash; **Java tembellere gore bir dil degildir**. Eger caba gostermek istemiyorsaniz, yol yakinken baska bir ugras secin kendinize.
-
-Bunun Java ile bir ilgisi yok. donguler, degiskenler vb konular "temel" noktalardir. Bunun icin once oturup C gibi bir dilde calisin.
-
-Gercekten caba gosterilmeyen konularda yardimci olmuyoruz. 
-
-1-2 for dongusu ile cozulebilecek konulari hic ugrasmadan soruyorsaniz ve EN ONEMLI nokta bunla ugrasmaktan keyif almiyorsaniz, bu isi birakin.
-
-Herkes yazilimci olmak zorunda degil. Kayseriliyseniz ticarete girin, guzelligine guveniyorsaniz zengin bir koca bulun vb :)
 
 #### Profesyonel Hayatta GUI, Swing vb. Kullaniliyor Mu?
 
@@ -392,4 +407,22 @@ Bazen cozmeye calistiginiz sorun, problemle ilgili dogru paradigmayi incelemedig
 3) Kod var dediler geldik olmayin. Ben istedigim ise girmek icin 1 yil icerisinde 2 kere is degistirdim. Java ile ugrasmadigim yerden mumkun oldugunca kacarim :) Bu kacislar da hep maas zammiyla geldi :)
 Kendinize guvenin ve ne istediginizi bilin. Her zaman dedigim gibi ask Java'ysa bol miktar calisin bundan keyif alin.
 
-### **kural 4**: Choose a job you love, and you will never have to work a day in your life.
+> **kural 4**:  Choose a job you love, and you will never have to work a day in your life.
+
+### Hangi kaynaklardan/kitaplardan calismali , hangi Javaci'lari takip etmeli.
+
+Ortalikta bazi videolar turkce kitaplar egitim setleri mevcut ,bunlari cok fazla incelemedigim icin olumlu/olumsuz bir sey soyleyemem.
+Calistiginiz kaynagin yazarinin olaya ne kadar vakif oldugu bildigi onemli.Faydasiz kotu kaynaklardan calismak hem zaman kaybina, hem maddi kayba hem Javanin yanlis anlasilmasina neden olur. Java ciddi bir dildir, ciddi anlamda bilgi icin 10 senelik bir deneyim gerekir.
+
+
+Dunya capindaki en saglam Javacilarin oldugu su listedeki Javacilarin kitaplari/bloglari faydali olacaktir.
+
+https://java.net/website/java-champions/bios.html
+
+Bu listede bizden sadece bir tek kisi var, Ozcan Acar hocamiz.
+Ozcan Acar hocamiz disinda onerdigim ve Java olayina gercekten vakif kisi Akin Kaldiroglu hocamizdir. Bu hocalarimizin yazilarini okuyunca olaya vakif olduklarini anlayabiliyoruz.
+
+Hali hazirda calistigim/calisiyor oldugum/calisacagim kitaplari surada bulabilirsiniz;
+
+http://www.injavawetrust.com/oneriler/
+
