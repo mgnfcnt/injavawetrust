@@ -1,0 +1,33 @@
+{
+  "name": "injavawetrust",
+  "version": "0.0.0",
+  "description": "A Repository for https://www.facebook.com/groups/injavawetrust/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/v0lkan/injavawetrust.git"
+  },
+  "keywords": [
+    "java",
+    "collaboration",
+    "group",
+    "tutorial",
+    "resource",
+    "education",
+    "Turkish",
+    "community",
+    "developer"
+  ],
+  "author": "@leventerguder, @v0lkan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/v0lkan/injavawetrust/issues"
+  },
+  "homepage": "https://github.com/v0lkan/injavawetrust",
+  "devDependencies": {
+    "doctoc": "~0.4.4"
+  }
+}
