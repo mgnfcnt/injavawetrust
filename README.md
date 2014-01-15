@@ -3,6 +3,9 @@ injavawetrust
 
 A Clone of the resources of the [Facebook group with the same name][in-java-we-trust] (content is mostly Turkish)
 
+## Nereden Baslayayim?
+
+**[Bu FAQ dosyasini okuyarak baslayabilirsin](FAQ.md)**.
 
 ### Katilimcilar
 
