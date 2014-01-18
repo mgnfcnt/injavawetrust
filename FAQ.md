@@ -1,5 +1,5 @@
 - **Table of Contents** 
-    - Genel
+	- TOC
 		- [Javaya nasil baslarim? Nasil ogrenirim ?](#javaya-nasil-baslarim-nasil-ogrenirim-)
 		- [Oracle Certified Professional, Java SE 6 Programmer Hakkinda // Ileri duzey Java SE bilgisi icin](#oracle-certified-professional-java-se-6-programmer-hakkinda--ileri-duzey-java-se-bilgisi-icin)
 		- [Bir sorum var, sorabilir miyim ?](#bir-sorum-var-sorabilir-miyim-)
@@ -15,6 +15,7 @@
 		- [Yurt disinda calismak istiyorum, ne yapmaliyim?](#yurt-disinda-calismak-istiyorum-ne-yapmaliyim)
 		- [Bilgisayar alcam da tavsiye edebileceginiz bir tane var mıi ?](#bilgisayar-alcam-da-tavsiye-edebileceginiz-bir-tane-var-mıi-)
 		- [Java Ogrenecegim, Bana Yol Gosterin](#java-ogrenecegim-bana-yol-gosterin)
+		- [JavaScript’i Temel Olarak Biliyorum, ve ilerletmek istiyorum; kitap onerisi var mi?](#javascript’i-temel-olarak-biliyorum-ve-ilerletmek-istiyorum-kitap-onerisi-var-mi)
 		- [Programlama Bilmiyorum, Nerden Baslamaliyim?](#programlama-bilmiyorum-nerden-baslamaliyim)
 		- [Java'ya bakayım dedim.Ağır geldi ilk aşamada.C#'ta umanlaşıp sonra Java geçiş yapmam mümkün olurmu ilerde ?](#java'ya-bakayım-dedimağır-geldi-ilk-aşamadac#'ta-umanlaşıp-sonra-java-geçiş-yapmam-mümkün-olurmu-ilerde-)
 		- [**GitHub**in Onemli Oldugunu Soyluyorsunuz. Projemi de Yukledim. Open Source Projemi Gelistirecek Insan Ariyorum. Nasil Bulabilirim?](#githubin-onemli-oldugunu-soyluyorsunuz-projemi-de-yukledim-open-source-projemi-gelistirecek-insan-ariyorum-nasil-bulabilirim)
@@ -301,6 +302,20 @@ Turkce kaynaklar sizi sadece orta seviyeye kadar tasir. Daha ilerisi ve sektorde
 > *not: bu yazdiklarim tamamen kisisel goruslerimdir. kimseyi baglamaz*.
 >  
 > &ndash; **Levent Erguder**
+
+### JavaScript’i Temel Olarak Biliyorum, ve ilerletmek istiyorum; kitap onerisi var mi?
+
+Su kaynaklar yararli olur:
+
+* [The Tangled Web](http://shop.oreilly.com/product/9781593273880.do)
+* [High Performance JavaScript](http://shop.oreilly.com/product/9780596802806.do)
+* [Testable JavaScript](http://shop.oreilly.com/product/0636920024699.do)
+* [JavaScript Web Applications](http://shop.oreilly.com/product/0636920018421.do)
+* [JavaScript Patterns](http://shop.oreilly.com/product/9780596806767.do)
+* [Eloquent JavaScript](http://eloquentjavascript.net/)
+* [JavaScript the Good Parts](http://shop.oreilly.com/product/9780596517748.do)
+
+Benzer pek cok kaynak bulabilirsin.
 
 ### Programlama Bilmiyorum, Nerden Baslamaliyim?
 
