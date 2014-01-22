@@ -1,35 +1,4 @@
-- **Table of Contents** 
-	- TOC
-		- [Javaya nasil baslarim? Nasil ogrenirim ?](#javaya-nasil-baslarim-nasil-ogrenirim-)
-		- [Oracle Certified Professional, Java SE 6 Programmer Hakkinda // Ileri duzey Java SE bilgisi icin](#oracle-certified-professional-java-se-6-programmer-hakkinda--ileri-duzey-java-se-bilgisi-icin)
-		- [Bir sorum var, sorabilir miyim ?](#bir-sorum-var-sorabilir-miyim-)
-			- [Odevim Var, Yardim Edin!](#odevim-var-yardim-edin!)
-		- [Is bulabilir miyim ? Acikta kalir miyim ?](#is-bulabilir-miyim--acikta-kalir-miyim-)
-		- [Hangi dili ogrenmeliyim ?](#hangi-dili-ogrenmeliyim-)
-		- [Ornek Guzel Soru (*ve Cevabi*) :)](#ornek-guzel-soru-ve-cevabi-)
-		- [Hangi IDE kullanilmalidir ?](#hangi-ide-kullanilmalidir-)
-- [Oneriler](#oneriler)
-		- [Dream In Code](#dream-in-code)
-		- [Ingilizce Ogrenin](#ingilizce-ogrenin)
-	- [Sorular ve Cevaplar](#sorular-ve-cevaplar)
-		- [Yurt disinda calismak istiyorum, ne yapmaliyim?](#yurt-disinda-calismak-istiyorum-ne-yapmaliyim)
-		- [Bilgisayar alcam da tavsiye edebileceginiz bir tane var mıi ?](#bilgisayar-alcam-da-tavsiye-edebileceginiz-bir-tane-var-mıi-)
-		- [Java Ogrenecegim, Bana Yol Gosterin](#java-ogrenecegim-bana-yol-gosterin)
-		- [JavaScript’i Temel Olarak Biliyorum, ve ilerletmek istiyorum; kitap onerisi var mi?](#javascripti-temel-olarak-biliyorum-ve-ilerletmek-istiyorum-kitap-onerisi-var-mi)
-		- [Programlama Bilmiyorum, Nerden Baslamaliyim?](#programlama-bilmiyorum-nerden-baslamaliyim)
-		- [Java'ya bakayım dedim.Ağır geldi ilk aşamada.C#'ta umanlaşıp sonra Java geçiş yapmam mümkün olurmu ilerde ?](#java'ya-bakayım-dedimağır-geldi-ilk-aşamadac#'ta-umanlaşıp-sonra-java-geçiş-yapmam-mümkün-olurmu-ilerde-)
-		- [**GitHub**in Onemli Oldugunu Soyluyorsunuz. Projemi de Yukledim. Open Source Projemi Gelistirecek Insan Ariyorum. Nasil Bulabilirim?](#githubin-onemli-oldugunu-soyluyorsunuz-projemi-de-yukledim-open-source-projemi-gelistirecek-insan-ariyorum-nasil-bulabilirim)
-			- [Git Icin Gorsel Arayuz Var Mi Kullanabilecegim?](#git-icin-gorsel-arayuz-var-mi-kullanabilecegim)
-			- [GitHub Kullanmamakta Israrciyim; Sana Bahaneler Hazirladim](#github-kullanmamakta-israrciyim-sana-bahaneler-hazirladim)
-			- [“GitHub’im var da&hellip; oraya koyacak kadar bir proje yazmadim.”](#“github’im-var-da&hellip;-oraya-koyacak-kadar-bir-proje-yazmadim”)
-				- [Duzenli olarak katkida bulunamiyorum; cok usengecim.](#duzenli-olarak-katkida-bulunamiyorum;-cok-usengecim)
-				- [GitHub’in Ne Oldugunu Bilmiyorum](#github’in-ne-oldugunu-bilmiyorum)
-				- [Var da, Kullanmayi cozemedim henuz](#var-da-kullanmayi-cozemedim-henuz)
-				- [github tam olarak ne işe yarar?](#github-tam-olarak-ne-işe-yarar)
-			- [Yardim edecegim cok kod bulamiyorum? nereden baslamaliyim?](#yardim-edecegim-cok-kod-bulamiyorum-nereden-baslamaliyim)
-			- [Profesyonel Hayatta GUI, Swing vb. Kullaniliyor Mu?](#profesyonel-hayatta-gui-swing-vb-kullaniliyor-mu)
-			- [Her dili cok iyi ogrenmek istiyorum, Android, iOS, Java, JSP, Assembly&hellip; Ne Yapmaliyim?](#her-dili-cok-iyi-ogrenmek-istiyorum-android-ios-java-jsp-assembly&hellip;-ne-yapmaliyim)
-		- [Hangi kaynaklardan/kitaplardan calismali , hangi Javaci'lari takip etmeli.](#hangi-kaynaklardankitaplardan-calismali--hangi-javaci'lari-takip-etmeli)
+//TODO: TOC ureticisinde sorun var, fixledikten sonra TOC eklenecek.
 
 ### Javaya nasil baslarim? Nasil ogrenirim ?
 
@@ -121,8 +90,6 @@ Tekrar ediyorum; Gercekten caba gosterilmeyen konularda yardimci olmuyoruz.
 1-2 for dongusu ile cozulebilecek konulari hic ugrasmadan soruyorsaniz ve EN ONEMLI nokta bunla ugrasmaktan keyif almiyorsaniz, bu isi birakin.
 
 Herkes yazilimci olmak zorunda degil :)
-
-
 
 ### Is bulabilir miyim ? Acikta kalir miyim ?
 
@@ -222,10 +189,46 @@ Turkce kaynaklar sizi sadece orta seviyeye kadar tasir. Daha ilerisi ve sektorde
 
 ## Sorular ve Cevaplar
 
+### “X Dili Turkiye’de is gormez; ogrenmene degmez” diyenler var.
+
+Turkiye'yi niye hedef olarak goruyorsun? -- Dunya uzerinde [cillop gibi isler var, her dilde](http://careers.stackoverflow.com/)   
+
+1. **Aktif** olarak Github kullan. 
+2. **Her hafta** guncelledigin Ingilizce bir blogun olsun 
+3. Konusma ve yazinsal Ingilizceni iyilestir (TOEFL: reading:25/30 ve uzeri; listening 25/30 ve uzeri; speaking 20/30 ve uzeri; writing:25/30 ve uzeri olsun)
+4. Igilendigin “dil”ler ile ilgili guncel gelismeleri yabanci kaynaklardan takip et.
+5. Milletin “senin isin degil bunlar; sana gore degil, yapamazsin” demesine aldirma. — Yurdum insani stereotipik olarak destek degil; kostek olmayi tercih eder.
+6. Ne kadar global ilan varsa hepsine basvur; ozgur yazilim toplulugundan istedigin sirketlerde calistigini bildigin arkadalar edin (bkz. (1), (2), ve (3) gerekli bunun icin); bu arkadaslarin araciligiyla da farkli islere basvur.
+7. Bu islere ne kadar erken baslarsan, o kadar iyi.
+8. Once iyi bir ingilizce; sonra yazilim egitimi &ndash; siralamayi karistirma.
+
+### Su an X dilini cok seviyor ve bu dille ilgileniyorum; bundan 5 sene sonra Java ogrensem gecikir miyim?
+
+Onemli olan dil degil. Bir dilin kurallarini sentaksini, temel formasyonunu ogrenmek; uzman bir yazilimcinin en fazla birkac ayini alir. Ne kadar cok dil bilirsen o kadar iyi; cunku bir dilde ogrendiklerini, bir baska dile nasil aktaracagini dusunmek seni gelistirir.
+
+“Vaktim yok”, “gec kalirim” gibi dusunceler sadece senin zihninde olusan sanal bariyerler.
+
+Her dil gibi, Java da emek ister. Bununla birlikte eger ekstra bir domain bilgisi gerekmiyorsa (ornegin uzaya roket gondermek icin ileri matematik; borsa analizi yapmak icin sinyal isleme, istatistik, ve olasilik; ya da gizli bir guvenlik projesi icin ileri derecede kriptografi&hellip; vb.) herhangi bir dili bir haftada baslangic duzeyinde, bir senede orta duzeyde, bes senede iyi duzeyde, on senede de uzman duzeyinde ogrenirsin.
+
+### Once C ogren, C basit diyenler var; dogru mudur?
+
+Hem evet, hem hayir.
+
+**Evet**, once C ogren.
+
+**Hayir**, C zor bir dildir; emek ister. En az bir, idealde iki seneni C ogrenmeye ayir.
+
 ### Yurt disinda calismak istiyorum, ne yapmaliyim?
 
-// to be edited.
+Bu dokumani oku, konuyla ilgili farkli yerlerde ayrintili bolumler goreceksin.
 
+* Ingilizce sart;
+* Ozgur yazilim sart;
+* Insan iliskileri onemli;
+* Ingilzce bir teknik blogun olsun; her hafta yaz;
+* Bir github hesabin olsun, her gun **sana ait olmayan** bir projeye katkida bulun;
+* Ayni sekilde kendi **GitHub** projene de duzenli olarak katkida bulun;
+* Iyi bir universiteden mezun olursan isin cok daha kolay.
 
 ### Bilgisayar alcam da tavsiye edebileceginiz bir tane var mıi ?
 
