@@ -415,7 +415,7 @@ Oncelikle baskalarinin yaptigi projelere destek olmali, bol bol katkida bulunmal
 Birkac **git** gorsel client'i::
 
 * [Git for Mac](http://mac.github.com/)
-* [Tower](http://mac.github.com/)
+* [Tower](http://www.git-tower.com)
 * [Gitbox](http://www.gitboxapp.com/)
 * [SourceTree](http://www.sourcetreeapp.com/)
 * [Git Cola](http://git-cola.github.io/)
