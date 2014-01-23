@@ -1,6 +1,6 @@
 //TODO: TOC ureticisinde sorun var, fixledikten sonra TOC eklenecek.
 
-### Javaya nasil baslarim? Nasil ogrenirim ?
+### Javaya nasil baslarim? Nasil ogrenirim?
 
 * Degerli Akin Kaldiroglu hocamizin yazilarini inceleyelim:
     * http://www.javaturk.org/?p=2128
@@ -63,7 +63,7 @@ Ileri duzey Java SE bilgisi gerektiren ve hazirlanildiginda ciddi anlamda Java S
 http://www.injavawetrust.com/oracle-certified-professional-java-se-6-programmer-hakkinda/
 
 
-### Bir sorum var, sorabilir miyim ?
+### Bir sorum var, sorabilir miyim?
 
 Direkt grup yoneticilerine soru sormanizda bir problem yok tabiki ama bir sorunuz oldugunda sorunuzu grupta dilediginiz gibi sorabilirsiniz, soruya birden fazla kisi cevap verdiginde daha dogru, daha farkli bilgiler ortaya cikacaktir :)
 
@@ -91,7 +91,7 @@ Tekrar ediyorum; Gercekten caba gosterilmeyen konularda yardimci olmuyoruz.
 
 Herkes yazilimci olmak zorunda degil :)
 
-### Is bulabilir miyim ? Acikta kalir miyim ?
+### Is bulabilir miyim? Acikta kalir miyim?
 
 Oncelikle hayatta hic bir seyin garantisi yoktur, olum haric :)
 
@@ -99,9 +99,9 @@ Sunu rahatlikla soyleyebiliriz: Yazilima gonul veren, kendini gelistirmeye ozen 
 
 Onemli olan sabirla calismak ve kendini en iyi sekilde gelistirmek. Iyi bir yazilimciya her yerde her zaman ihtiyac vardir :)
 
-### Hangi dili ogrenmeliyim ?
+### Hangi dili ogrenmeliyim?
 
-Bu soru biraz da "abi birkac tane kiz var kafamda hangisi olsun ?" gibi geliyor :)
+Bu soru biraz da "abi birkac tane kiz var kafamda hangisi olsun?" gibi geliyor :)
 
 Sen nasil bir adamsin ne bekliyorsun. Bir konus bakalim bu kizlarla, hangisi kafana yatacak.
 
@@ -146,7 +146,7 @@ herhangi bilde calismaniz cok da problem olmaz.
 
 Egğer java kullanacaksan, Arayüzde JSF, library olarak da Primefaces kullanmanı tavsiye ederim. ben zamanında GWT ile bir sosyal ağ yazmıştım. Kod büyüdükçe compile olayı ve testi zorlaşıyor. Mobil tarafına data aktarmak için restful web servislerini kullan sintak için de json kullan böylece çok hızlı data aktarabilirsin mobil tarafına. Uygulama sunucusu mu kullanacaksın yoksa tomcat veya jetty gibi bir web server mı? bu da diğer frameworklerde ne kullanman gerektiğini etkiler. Application server olacaksa, spring yerine ejb 3.0 veya 3.1 tavsiye ederim. çok daha sade. jpa kullanırsan da, persistence için hibernate veya eclipselink farketmez. benim tavsiyem bi tane vps sunucu kirala en az 2gb ram olsun. glassfish uygulama sunucusu ve arkasına da mysql. ziyadesiyle içini görür.
 
-### Hangi IDE kullanilmalidir ?
+### Hangi IDE kullanilmalidir?
 
 Ogrencilikte ben daha cok Netbeans kullaniyordum. Sektorde daha cok Eclispe kullanilmaktadir. Bazi yerler de IntelliJ IDEA kullanilmaktadir.Bu urun ucretli bir IDEdir, kullanlarin baya memnun oldugunu soyleyebilirim. 
 Bir kac ide yi kullanmak asina olmak daha iyi olacaktir. Sektorel oneri olarak mutlaka Eclipse. Yeni baslayan ogrenci arkadaslara onerim Netbeans olacaktir. Burada onemli nokta kullandiginiz IDEye hakim olmaya calisin. Bu verimlilik, hiz saglayacaktir.
@@ -230,7 +230,7 @@ Bu dokumani oku, konuyla ilgili farkli yerlerde ayrintili bolumler goreceksin.
 * Ayni sekilde kendi **GitHub** projene de duzenli olarak katkida bulun;
 * Iyi bir universiteden mezun olursan isin cok daha kolay.
 
-### Bilgisayar alcam da tavsiye edebileceginiz bir tane var mıi ?
+### Bilgisayar alcam da tavsiye edebileceginiz bir tane var mıi?
 
 > Oncelikle ben bu konularda uzman biri degilim, aslinda henuz hic bir konuda uzman degilim :)
 > Yaklasik 3 yildir  Acer Aspire 7741G kullaniyorum(2011 ocak/subat). Ogrencilikte 1400tl gibi bir
@@ -263,7 +263,7 @@ Bu dokumani oku, konuyla ilgili farkli yerlerde ayrintili bolumler goreceksin.
 > Hedefim Java kariyeri yonlu oldugu icin mezun oldugumdan beri Javanin pesinin birakmadim. Daha
 > sonrasinda Huawei'de de aradigimi tam olarak bulamayinca Java aski agir basti ve yolu goze aldim :)
 > 
-> Asik adamin gozu gormez degil mi ? Bir adam bir kiza seni seviyorum der ve ugrunda bir sey
+> Asik adamin gozu gormez degil mi? Bir adam bir kiza seni seviyorum der ve ugrunda bir sey
 > yapmazsa bu adamin sevgisinden suphe duymak gerekir ! :) cok seven sevgiliden cok bahseder, cok
 > bahsedilmesini ister!
 > 
@@ -330,7 +330,7 @@ Benzer pek cok kaynak bulabilirsin.
 > 
 > &ndash; **Volkan Ozcelik**
 
-### Java'ya bakayım dedim.Ağır geldi ilk aşamada.C#'ta umanlaşıp sonra Java geçiş yapmam mümkün olurmu ilerde ?
+### Java'ya bakayım dedim.Ağır geldi ilk aşamada.C#'ta umanlaşıp sonra Java geçiş yapmam mümkün olurmu ilerde?
 
 Java'nin Basitlik (Simple) ozelliginden kasit, Javayi gozu kapali ogrenirsin demek degildir. Bir dilde uzmanlasmak en azindan 5-10 senelik bir konudur.
 
