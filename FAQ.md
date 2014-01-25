@@ -245,6 +245,11 @@ Bu dokumani oku, konuyla ilgili farkli yerlerde ayrintili bolumler goreceksin.
 > 
 > &ndash; **Levent Erguder**
 
+> Levent arkadaşın önerisi gayet güzel olmakla birlikte bana kalırsa 1400 tl veya 2000 tl windows tabanlı acer,hp gibi makinalara para vermektense 1500 TL'ye Mac Mini almanızı öneririm.
+> Şahsen hem uygun hemde yüksek performanslı işlemlere kadar herşeyi yapmaya imkan sunuyor ve bütçenizede uygun buna artı olarak uygun monitör almanız dahilinde harika bir çalışma ortamı oluşturabiliriniz.
+> 
+> &ndash; **Batuhan Göksu**
+
 ### Java Ogrenecegim, Bana Yol Gosterin
 
 >…Bu yaz üniversiteden mezun oldum ve yoluma Java ile devam etmeye karar verdim ve bu konuda ısrarcı davranıyorum.
