@@ -9,7 +9,7 @@
     * http://www.javaturk.org/?p=2318
     * http://www.javaturk.org/?p=2338
 * Kitap Onerileri:
-    * Baslangic ve Orta seviye icin: *Herbert Schidt Herkes içcin Java SE 7*
+    * Baslangic ve Orta seviye icin: *Herbert Schidt Herkes için Java SE 7*
     * Orta-ileri duzey Gramer: *SCJP Sun Certified Programmer for Java 6 Exam 310-065*
     * Turkce e-book: http://kodcu.com/e-kitap/
     * Ingilizce Kitaplar
@@ -53,6 +53,8 @@
 * Iyi Bir CV/Resume Nasil Hazirlanir?
     * http://www.javaturk.org/?p=1044
    
+> *Levent Erguder*
+   
 ### Oracle Certified Professional, Java SE 6 Programmer Hakkinda // Ileri duzey Java SE bilgisi icin
 Mezun olduktan sonra Java ilanlari icin is gorusmesine gittiginizde size bu sinavlarda cikan sorulara benzer 10/15 soruluk bir test
 yapan yerler olacaktir. Ayrica her yerde abstract class , interface , Thread , Collection  vb konularda soru soracaklardir.
@@ -62,16 +64,32 @@ Ileri duzey Java SE bilgisi gerektiren ve hazirlanildiginda ciddi anlamda Java S
 
 http://www.injavawetrust.com/oracle-certified-professional-java-se-6-programmer-hakkinda/
 
+> *Levent Erguder*
+
+### Java ogrenmek icin ne kadar sure gereklidir ?
+
+Ogrenci arkadaslar heyecanla Java ya nasil baslarim diye soruyor bol miktar. Biri de demiyor ki bu is ne kadar vakit alir, bir kac ayda sadece Java SE bilmek bile mumkun degil. Sadece onerdigim Herbert Schildt Herkes icin Java gibi bir kaynagini anlayarak duzgunce calismak bol kod yazmak bile yaklasik 1-2 sene surebilir. Bu da Java SE de ileri oldugunuz anlamina gelmez ayrica.
+Sonra Java zor deniliyor , Java zor degildir, Java ciddi bir dildir.
+
+Ogrencilikte en gec 3 sinifa gelindiginde Java SE gramerine asina olunmus bol bol kod yazilmis olsun. 3 ve 4 sinifta Java EE bazli yapilar uzerinde calisip, ortaya guzel projeler cikartilmalidir. Bu onerim Java kariyeri isteyen ,Java asiklarinadir.
+
+Asik olmayan bu yola girmesin yarida birakirsiniz
+Demedim mi, demedim mi gönül sana söylemedim mi?
+
+> *Levent Erguder*
 
 ### Bir sorum var, sorabilir miyim?
+Insanlar genelde soru sormaktan cekiniyorlar, bunun nedeni genel olarak cekinmek ve sorusuna gelen yorumlarin rahatsiz edici olmasi.
+Bununla birlikte soru sormadan once "duzgun soru sorma" kavramini biraz arastirmak faydali olacaktir.
 
-Direkt grup yoneticilerine soru sormanizda bir problem yok tabiki ama bir sorunuz oldugunda sorunuzu grupta dilediginiz gibi sorabilirsiniz, soruya birden fazla kisi cevap verdiginde daha dogru, daha farkli bilgiler ortaya cikacaktir :)
-
-Sorunuzu sorarken anlasilir, detayli bir sekilde sormaya ozen gosterin. Oncelikle kendi arastirmanizi yapin sonrasinda soru sorun.
+Soruyu soran elinden geldiginde duzgun soru sormalidir.
+Neyi nasil yaptigini,neyi yapamadigini, net acik temiz bir dille aciklamak faydali olabilir mesela, daha fazlasi icin;
 
 Soru sormak ile ilgili daha ayrintili bilgi icin [nasil akillica soru sorulur][how-to-ask-smart-questions] kaynagini **_mutlaka_** okumanizi oneririz.
 
 [how-to-ask-smart-questions]: http://liste.ctis.bilkent.edu.tr/Linux/belgeler.org/howto/smart-questions.html
+
+> *Levent Erguder*
 
 #### Odevim Var, Yardim Edin!
 
@@ -87,17 +105,31 @@ Bunun Java ile bir ilgisi yok. donguler, degiskenler vb konular "temel" noktalar
 
 Tekrar ediyorum; Gercekten caba gosterilmeyen konularda yardimci olmuyoruz. 
 
+
 1-2 for dongusu ile cozulebilecek konulari hic ugrasmadan soruyorsaniz ve EN ONEMLI nokta bunla ugrasmaktan keyif almiyorsaniz, bu isi birakin.
 
 Herkes yazilimci olmak zorunda degil :)
 
+> *Levent Erguder*
+
 ### Is bulabilir miyim? Acikta kalir miyim?
+Oncelikle hayatta hic bir seyin garantisi yoktur, olum haric.
+kullu nefsin zaikatül mevt
 
-Oncelikle hayatta hic bir seyin garantisi yoktur, olum haric :)
-
-Sunu rahatlikla soyleyebiliriz: Yazilima gonul veren, kendini gelistirmeye ozen gosteren biri bir sekilde isini bulacaktir. 
+Sunu rahatlikla soyleyebilirim: Yazilima gonul veren, kendini gelistirmeye ozen gosteren biri bir sekilde isini bulacaktir. 
 
 Onemli olan sabirla calismak ve kendini en iyi sekilde gelistirmek. Iyi bir yazilimciya her yerde her zaman ihtiyac vardir :)
+
+
+Bununla birlikte konu sadece kod yazmaktan ibaret degildir. Ornegin bir onceki calistigim firma olan Huawei de veya farkli sirketlerde
+"Test Engineer" , Quality Engineer , Design Enginer gibi etiketlerde mevcuttu. 
+
+Ben back-end calismayi ve Java ile calismayi seviyorum. Siz css,html, js gibi dillerle calismayi ya da tasarim vb sevebilirsiniz.
+Burada onemli olan sevdigin alani bulmak sonrasinda bundan keyif alarak calismak.
+Severek yaptiktan sonra adim adim guzel isler Allahin izniyle bulunacaktir. Kendimden ornek verecek olursam ben istedigim iste calismak icin 2 kez is degistirdim
+ve bu surec yaklasik 1 sene surdu. Pes etmedim :)
+
+> *Levent Erguder*
 
 ### Hangi dili ogrenmeliyim?
 
@@ -148,8 +180,12 @@ Egğer java kullanacaksan, Arayüzde JSF, library olarak da Primefaces kullanman
 
 ### Hangi IDE kullanilmalidir?
 
-Ogrencilikte ben daha cok Netbeans kullaniyordum. Sektorde daha cok Eclispe kullanilmaktadir. Bazi yerler de IntelliJ IDEA kullanilmaktadir.Bu urun ucretli bir IDEdir, kullanlarin baya memnun oldugunu soyleyebilirim. 
-Bir kac ide yi kullanmak asina olmak daha iyi olacaktir. Sektorel oneri olarak mutlaka Eclipse. Yeni baslayan ogrenci arkadaslara onerim Netbeans olacaktir. Burada onemli nokta kullandiginiz IDEye hakim olmaya calisin. Bu verimlilik, hiz saglayacaktir.
+Ogrencilikte ben daha cok Netbeans kullaniyordum. Sektorde daha cok Eclispe kullanilmaktadir. 
+Bazi yerler de IntelliJ IDEA kullanilmaktadir.Bu urun ucretli bir IDEdir, kullanlarin baya memnun oldugunu soyleyebilirim. Bir kac ide yi kullanmak asina olmak daha iyi olacaktir. Sektorel oneri olarak mutlaka Eclipse, sonrasinda Intellij IDEA. Yeni baslayan ogrenci arkadaslara onerim Netbeans olacaktir. Burada onemli nokta kullandiginiz IDEye hakim olmaya calisin. Bu verimlilik, hiz saglayacaktir.
+
+IDE'ye hakim olmanin soyle bir faydasi da olacaktir, ornegin is gorusmesine gittiginizde size kod yazdiracaklardir. Bi hizli seri sekilde sinif vs olusturup ne bileyim getter/setter lari olusturmak var bir de yavas yavas olusturmak var. Boyle bir ek faydasi da olabilir. Silahinizi iyi taniyin :)
+
+> *Levent Erguder*
 
 # Oneriler
 
@@ -160,8 +196,12 @@ Bir kac ide yi kullanmak asina olmak daha iyi olacaktir. Sektorel oneri olarak m
     3. Staj yeri bulmak icin calismalara onceden baslayip, bu konuda mailleri on yazilari cvyi titizlikle hazirlayip gondermek faydali olacaktir. 
     4. Sakin sadece 1 - 2 yere mail atip beklemeyin, cogu yer cogu zaman cevap bile donmeyecektir. Ayni gun 20-30 belki daha fazla mail attigim zaman da oldu 
 6. Bir blogunuz mutlaka olsun , cesitli arastirmalari uygulamalari ornekleri buralarda kendinize not tutar gibi yazabilirsiniz. 
-7. **GitHub** hesabi olmayanin kulagini cekiyoruz; bir **GitHub** hesabiniz mutlaka olsun; **tum calismalarinizi GitHub uzerinde tutun, “insanlar benim kodumun ne kadar kotu oldugunu gorurler”, “ama bu koda bakan beni ise almaz ki?” diye cekinmeyin. &ndash; Kodunuzu gormeyen kisinin sizi ise almasi cok daha zordur, ayrica kodunuzu dis dunyaya acmak sizi daha kaliteli kod yazmak konusunda da disipline edecektir.
-8. **Bu isi sevdiginizi istekli oldugunuzu gostermek gerekli**.
+
+7. **Bu isi sevdiginizi istekli oldugunuzu gostermek gerekli**.
+> *Levent Erguder*
+
+8. **GitHub** hesabi olmayanin kulagini cekiyoruz; bir **GitHub** hesabiniz mutlaka olsun; **tum calismalarinizi GitHub uzerinde tutun, “insanlar benim kodumun ne kadar kotu oldugunu gorurler”, “ama bu koda bakan beni ise almaz ki?” diye cekinmeyin. &ndash; Kodunuzu gormeyen kisinin sizi ise almasi cok daha zordur, ayrica kodunuzu dis dunyaya acmak sizi daha kaliteli kod yazmak konusunda da disipline edecektir.
+> *Volkan Ozcelik *
 
 ### Dream In Code
 
@@ -172,6 +212,8 @@ Her dilde temel olan;  degiskenler(variables), donguler (loop), akis kontrolu (f
 Bu sekilde bol miktar pratik yaptiktan sonra sirasi geldiginde ister Java , ister C# ya da baska bir dili ogrenmek daha kolay olacaktir.
 
 Ogrenmenize ivme katacak sey kod yazmayi , sabirla okumayi , arastirma yapmayi ne kadar sevdiginizdir. Simdiki aklim olsa universite zamani cok daha fazla calisirdim :)
+
+> *Levent Erguder*
 
 ### Ingilizce Ogrenin
 
@@ -242,7 +284,8 @@ Bu dokumani oku, konuyla ilgili farkli yerlerde ayrintili bolumler goreceksin.
 > Yeterli seviye arastirma yapip istege uygun olacak sekilde(mesela ben ozellikle 17.3 ekran tercih etmistim) ve butceye uyacak sekilde bir urun alinabilir. 
 > 
 > Benim bir sonraki laptop'im insallah macbook olacak :)
-> 
+> Edit: 3 yil sonunda laptopum teklemeye basladi, 128 SSD aldim ve suan sadece Ubuntu kullaniyorum.
+> Butce uygunsa SSD oneriyorum. 4GB ram yeterli olmasina ragmen daha rahat olmasi icin 6 ya da 8 gb a yukseltecegim.
 > &ndash; **Levent Erguder**
 
 > Levent arkadaşın önerisi gayet güzel olmakla birlikte bana kalırsa 1400 tl veya 2000 tl windows tabanlı acer,hp gibi makinalara para vermektense 1500 TL'ye Mac Mini almanızı öneririm.
@@ -342,6 +385,8 @@ Java'nin Basitlik (Simple) ozelliginden kasit, Javayi gozu kapali ogrenirsin dem
 Temel gramerlerinden sonra birbirine gecme islemi cok sorun olmaz. Ilerleyen donemlerde mumkun olmasina ragmen, sahsen en basta kariyer yolunu cizmek daha mantikli bir yaklasim olacaktir.
 
 Oncelikle “aski bulmak" icin gerekli calismalari yapalim. Sonrasinda kararimizi verelim mutlu mesut yasayalim. Kafasinda 2 kadin olan adam gelgitler icinde olur :)
+
+> *Levent Erguder*
 
 ### **GitHub**in Onemli Oldugunu Soyluyorsunuz. Projemi de Yukledim. Open Source Projemi Gelistirecek Insan Ariyorum. Nasil Bulabilirim?
 
@@ -503,9 +548,11 @@ Ogrenci arkadaslar genel olarak bol miktar GUI ile ugrasiyorsunuz, bizim projele
 
 Sektorel olarak GUI nin yarari pek olmaz. Odeviniz disinda oturup GUI ile ugrasmayin.Bunun yerine guzel bir Java SE bilgisi edinip sonrasinda;
 
-Servlet&amp;JSP, JSF gibi teknolojileri kurcalayin.
+Servlet&amp;JSP, JSF gibi teknolojileri kurcalayin. Gordugum duydugun bildigim kadariyla uygulamalar masaustu degil browser tabanli. Bu frameworkler de tek basina yeterli olmayacaktir, Hangi dili ogrenmeliyim sorusunu incelemeniz faydali olacaktir. Dilerseniz kariyer.net veya cesitli kariyer siteleri uzerinde hangi frameworkler kullaniliyor incelemelerde bulunabilirsiniz.
 
-not: belki hello world yazinca bile cok mutlu olacak kadar ugrasacaksiniz ama;
+JSP JSF gibi yapilara adim atmaya basladigimizda;
+
+Belki hello world yazinca bile cok mutlu olacak kadar ugrasacaksiniz ama;
 
 > **kural 1**: Javada hic bir sey ilk run ediste calismaz.
 
@@ -524,6 +571,15 @@ Mezun oldugunuzda istediginiz alanla ilgili guzel projeler odevler stajlar yapmi
 
 Pek cok sirket (ozellikle Silikon Vadisi’nde) “well rounded” olmaniza dikkat eder. Yani web’den arayuze, native kod yazmaktan hybrid uygulama gelistirmeye, CSS’ten photoshop’a, Erlang’dan Java’ya, TCP ve HTTP *protokol*lerinin nasil calistigindan, DNS, ve load balancing bilgisine, performans optimizasyonu ve benchmarking’den, devops ve quality assurance’a kadar pek cok seyi bilmenizi bekler sizden. Bununla birlikte bu konularin hepsinde birden uzman olmanizi beklemez.
 
+> **kural 3**: Bir yerde olan her yerdedir, her yerde olan ise hicçbir yerde değildir.
+
+3) Kod var dediler geldik olmayin. Ben istedigim ise girmek icin 1 yil icerisinde 2 kere is degistirdim. Java ile ugrasmadigim yerden mumkun oldugunca kacarim :) Bu kacislar da hep maas zammiyla geldi :)
+Kendinize guvenin ve ne istediginizi bilin. Her zaman dedigim gibi ask Java'ysa bol miktar calisin bundan keyif alin.
+
+> **kural 4**:  Choose a job you love, and you will never have to work a day in your life.
+
+> *Levent Erguder*
+
 Onemli olan ilgi alaniniz ne ise, o alanla ilgili spesifik bir ya da birkac konuda **cok uluslu bir yazilimci topluluguna seminer verebilecek** duzeyde uzmanlasin; bu uzmanlik konularinizla yakindan ilgili bazi konulari da ara sira kurcalayip, kavramsal olarak bilgi sahibi olun.
 
 Bir farkli oneri de, sadece tek bir paradigmaya bagli kalmayin: Eger Object Oriented programlamayi seviyorsaniz (C#, Java) mutlaka birkac senenizi Erlang/Haskell gibi fonksiyonel tabanli bir dili ogrenmeye de ayirin &ndash; ya da tam tersi. Sonra bu kavramlari birbiriyle caprazlayin:
@@ -540,12 +596,7 @@ Bazen cozmeye calistiginiz sorun, problemle ilgili dogru paradigmayi incelemedig
 [monad]: http://en.wikipedia.org/wiki/Monad_(functional_programming)
 [oo-haskell]: http://www.haskell.org/haskellwiki/The_Monad.Reader/Issue3/Functional_Programming_vs_Object_Oriented_Programming
 
-> **kural 3**: Bir yerde olan her yerdedir, her yerde olan ise hicçbir yerde değildir.
-
-3) Kod var dediler geldik olmayin. Ben istedigim ise girmek icin 1 yil icerisinde 2 kere is degistirdim. Java ile ugrasmadigim yerden mumkun oldugunca kacarim :) Bu kacislar da hep maas zammiyla geldi :)
-Kendinize guvenin ve ne istediginizi bilin. Her zaman dedigim gibi ask Java'ysa bol miktar calisin bundan keyif alin.
-
-> **kural 4**:  Choose a job you love, and you will never have to work a day in your life.
+> *Volkan Ozcelik *
 
 ### Hangi kaynaklardan/kitaplardan calismali , hangi Javaci'lari takip etmeli.
 
@@ -564,3 +615,18 @@ Hali hazirda calistigim/calisiyor oldugum/calisacagim kitaplari surada bulabilir
 
 http://www.injavawetrust.com/oneriler/
 
+> *Levent Erguder*
+
+### Piyasada özel universite mezunlarina  farkli gozle bakis,bu mezunlar isimizi yapamaz tarzinda yaklasim var mi ?
+
+Benim gordugum kadariyla pek boyle bir yaklasim yok. Tabi ben olsam universitenin kalitesini dikkate alirim CV incelemesinde bulunurken..
+universite ve ozellikle bilgisayar muhendisligi etiketi kim ne derse desin onemlidir. Cogu yer vergi durumundan dolayi sadece muhendis tercih etmektedir.
+Lisede okuyan ogrenci arkadaslar mumkunse illaki ozellikle bilgisayar/yazilim muhendisligi bolumlerini kazanmaya calissin.
+Tekrar ediyorum etiket kim ne derse desin onemlidir.Isinizi kolaylastirir, cevrenizde herkes bilgisayar muhendisidir guzel isler bulur, birbinize destek olursunuz vs.
+
+Tabi sadece diploma sahibi olmak bir sey ifade etmez, bilgisayar muhendisinin diplomasi is acisindan faydasi yoktur.
+Ise alinmani saglayacak sey bilgin, istegin, caliskanligin ikna ediciligin vs parametrelerdir.
+Biz imza atmadan proje run edilmiyor falan oyle bir sey olmadigi icin, su meshur kendini gelistirmek olayinin en onemli oldugu bolum suphesiz yazilim sektorudur.
+bilmiyorum ama insaat muhendisligi teknolojisinde her gun deli gibi bir gelisme olmuyordur diye dusunuyorum.
+
+> *Levent Erguder*
