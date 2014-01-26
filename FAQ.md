@@ -578,7 +578,7 @@ Kendinize guvenin ve ne istediginizi bilin. Her zaman dedigim gibi ask Java'ysa 
 
 > **kural 4**:  Choose a job you love, and you will never have to work a day in your life.
 
-> *Levent Erguder*
+> *Confucius*
 
 Onemli olan ilgi alaniniz ne ise, o alanla ilgili spesifik bir ya da birkac konuda **cok uluslu bir yazilimci topluluguna seminer verebilecek** duzeyde uzmanlasin; bu uzmanlik konularinizla yakindan ilgili bazi konulari da ara sira kurcalayip, kavramsal olarak bilgi sahibi olun.
 
