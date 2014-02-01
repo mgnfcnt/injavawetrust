@@ -630,3 +630,40 @@ Biz imza atmadan proje run edilmiyor falan oyle bir sey olmadigi icin, su meshur
 bilmiyorum ama insaat muhendisligi teknolojisinde her gun deli gibi bir gelisme olmuyordur diye dusunuyorum.
 
 > *Levent Erguder*
+
+### Java da yeni bir konu ogrenmeye ve proje/proje gruplarina dair oneriler.
+
+0) Java da bir seyler ogrenmeye karar verdiyseniz bu okadar basit olmayacak,
+Java'nin "Simple" ozelligi baska anlama gelmektedir. .
+En onemli nokta duzgun kaynak bulmaktir, bunun icin bakiniz Java ustatlari
+
+https://java.net/website/java-champions/bios.html
+
+Bu kisilerin kitaplarindan/bloglarindan yararlanin. 
+
+1) Kagida yazarak ve cizerek calisin, gorsellikten yararlanin. 
+
+2) Bol bol kod yazin, soyle olsa nasil olur boyle olsa nasil olur diye fantezi uretin. Kod yazip gormedikce yeterli derecede anlamak mumkun olmayacaktir. 
+
+Talk is cheap. Show me the code. 
+Linus Torvalds
+
+3) Blog tutun, ogrendiklerinizi not tutar gibi yazin. Bu donup baktiginizda tekrar hatirlamanizi saglar ve yeni seyler ogrendikce guncelleyebilirsiniz.Akilda kalici bir ogrenme saglayacaktir.
+
+4) Insanlara ogretmeye calisin, arkadaslarinizla tartisin, projenizde kullanin. Mesela Maven mi calistiniz , projenizi Maven tabanli yapin, log4j gibi bir loglama frameworku entegre edin.Bu tarz atistirmalik frameworkler size cv de + puan kazandirir.
+
+5) En onemli nokta duzgun bir kaynak bulduktan sonra sonuna kadar bitirin yarim birakmayin, bu en buyuk vakit kaybi olacaktir.
+
+6) Baslangiclar zor olabilir, esik degeri asilana kadar. Onemli nokta o noktaya kadar ugrasmak vazgecmemek. Sonrasi gelecektir.
+
+7)Plan , program ve disiplin uzun vadeli saglam ogrenmek icin gereklidir. Bu benim icin onemli bir nokta ogrendigim konuyu saglam bir sekilde ogrenmek isterim. Herkesin fikri bu olmayabilir
+
+8)Bazi arkadaslar benim cok iyi bir ingilizcem oldugunu saniyor, oysa benim ortalama bir ingilizcem var malesef.
+Sadece dogru kaynaklari buluyorum ve bir sure sonra zaten bunye alisiyor, anliyorsun olayi. Ingilizce kitaplardan korkmayin zorlaya zorlaya olacaktir.
+
+9) Okulda calisma grubunuzu iyi belirleyin. 
+Sorumluluktan kacmayin, kimsenin uzerinden proje derslerini gecmeyin. Birinin sizin projenizi yapmasi ile gecmeniz size yarar degil zarar saglayacaktir.
+Eger projeler tekilse, bencil davranamyin paylasimci olun 
+Bir mum diğer bir mumu tutuşturmakla ateşinden bir şey kaybetmez.
+
+> *Levent Erguder*
