@@ -667,3 +667,17 @@ Eger projeler tekilse, bencil davranamyin paylasimci olun
 Bir mum diğer bir mumu tutuşturmakla ateşinden bir şey kaybetmez.
 
 > *Levent Erguder*
+
+
+### Yardimci Arac ve Gerecler
+
+##### MySQL Tablolarini Grafiksel Olarak Gosteren Araclar
+
+* <http://www.mysql.com/products/workbench/>
+* <http://schemaspy.sourceforge.net/>
+* <http://www.malcolmhardie.com/sqleditor/>
+* <http://schemaspy.sourceforge.net/>
+* <https://code.google.com/p/database-diagram/>
+* <http://www.fabforce.net/dbdesigner4/>
+* <http://www.visual-paradigm.com/product/vpuml/editions/community.jsp>
+* <http://www.sqlmaestro.com/products/mysql/maestro/>
