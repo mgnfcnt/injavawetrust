@@ -27,10 +27,10 @@ package Pratik;
  *         bulunuyor . Birine deger , birine referans kopyalacagiz ve sonuclari
  *         gorecegiz..Orneklerde goruldugu gibi iki islem de de degiskenin
  *         degerini degistirdik. Ama birisi degere , digeri referansa sahip buna
- *         dikkat edelim ... Calistigim ve yararlandigim kaynagi da ekliyeyim ,
- *         kaynak bildirmek bir erdemdir. Kaynak :
- *         http://www.kurumsaljava.com/2012/07/08/javada-bilinmeyenler/
- * 
+ *         dikkat edelim ... 
+ *	   Calistigim ve yararlandigim kaynagi da ekliyeyim ,
+ *         kaynak bildirmek bir erdemdir. 
+ *	   Kaynak : http://www.kurumsaljava.com/2012/07/08/javada-bilinmeyenler/
  * 
  */
 public class CallByReferance {
@@ -57,6 +57,9 @@ public class CallByReferance {
 			           // kendileri nesne'dirler. Burada dizi adresi
 				   // kopylanmakta.
 		System.out.println("Kopyalandiktan sonra array[2] : " + array[2]);// cikti:13
+		
+		/*Sonuc : Java her zaman call by value mantiginda calisir . 
+		Onemli olan deger mi yoksa referans mi kopyalandigidir..*/
 
 	}
 
