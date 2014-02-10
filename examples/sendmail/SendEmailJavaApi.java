@@ -1,4 +1,4 @@
-package com.alican.akkus.eposta.yolla;
+package injavawestrust;
 
 /*
  * Java'daki Mail Api'isyle e-posta yolluyoruz .
