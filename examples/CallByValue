@@ -47,15 +47,15 @@ public class CallByReferance {
 		System.out.println("Kopyalamdan once : " + i);// cikti : 5
 		callByValue(i);// deger kopyalama
 		System.out.println("Deger ile kopyalama : " + i);// degiskenimizin
-															// durumunu
-															// yazdiralim ,
-															// cikti : 5
-
+								 // durumunu
+								 // yazdiralim ,
+								 // cikti : 5
+								
 		System.out.println("Kopyalamdan once array[2] : " + array[2]);// cikti:3
 
 		callByValue(array);// Diziler primitif degerler tutmasina ragmen ,
-							// kendileri nesne'dirler. Burada dizi adresi
-							// kopylanmakta.
+			           // kendileri nesne'dirler. Burada dizi adresi
+				   // kopylanmakta.
 		System.out.println("Kopyalandiktan sonra array[2] : " + array[2]);// cikti:13
 
 	}
