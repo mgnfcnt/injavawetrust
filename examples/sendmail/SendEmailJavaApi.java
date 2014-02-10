@@ -24,7 +24,7 @@ public class EPostaYolla {
 		// TODO Auto-generated method stub
 
 		// hangi e-posta adresinden yolluyacaksak onu yazýyoruz..
-		final String from = "alican.akkus94@gmail.com";
+		final String from = "fromExample@gmail.com";
 		// hesabýnýzýn passwordsý
 		// test etmek için kendi passwordnýzý giriniz :)
 		// eðer oldugu gibi test ederseniz meþhur NullPointerException yersiniz
@@ -33,7 +33,7 @@ public class EPostaYolla {
 
 		// gonderilecek olan adres
 		// ben kendime yolluyorum :)
-		final String to = "alican.akkus94@gmail.com";
+		final String to = "toExample@gmail.com";
 
 		// Properties özellikleri ayarlamamýz lazým
 		Properties properties = new Properties();
@@ -55,7 +55,7 @@ public class EPostaYolla {
 			message.setFrom(new InternetAddress(from));
 
 			message.setRecipients(Message.RecipientType.TO,
-					InternetAddress.parse("alican.akkus94@gmail.com"));
+					InternetAddress.parse("toExample@gmail.com"));
 
 			message.setHeader("Content-Type", "text/plain; charset=UTF-8");// eðer
 																			// bu
