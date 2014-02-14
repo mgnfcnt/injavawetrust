@@ -9,15 +9,14 @@ public class PrimeGenerator{
 	// Ana asal kontrol etme methodumuz.
 	private static boolean PrimeCheck(long number){
 
-		boolean isPrime = true;
 		long half = number / 2;
 
 		for(Long prime : primeList){ // Asallık kontrol işlemi
 			if(prime > half){ break; } 
-			if(number % prime == 0){ isPrime = false; break; } 
+			if(number % prime == 0){ return false; } 
 		}
 
-		return isPrime;
+		return true;
 
 	}
 	
