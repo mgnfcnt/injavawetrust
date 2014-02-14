@@ -19,6 +19,6 @@ Kullanılan Kütüphaneler
 
 * .ArrayList
 
-## java.math
+## java.lang
 
-* .BigInteger
+* .Long
