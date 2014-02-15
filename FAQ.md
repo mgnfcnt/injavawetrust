@@ -687,8 +687,8 @@ Bir mum diğer bir mumu tutuşturmakla ateşinden bir şey kaybetmez.
 
 
 Burada  Türkçe ve İngilizce opencourse lar ,ders materyalleri  bulunmaktadır.Özellikle  ingilizce   derslerde
-çok güzel ders anlatımları bulunmaktadır.Mutlaka incelemenizi tavsiye ederim.Megep modullerinde de hem bilgi-
-sayar hemde elektronikle ilgili cok güzel dökünmanlar bulunmaktadır.
+çok güzel ders anlatımları bulunmaktadır.Mutlaka incelemenizi tavsiye ederim.Megep modullerinde de hem bilgisayar
+hemde elektronikle ilgili cok güzel dökünmanlar bulunmaktadır.
 
 
   İngilizce Olanlar   
