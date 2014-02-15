@@ -686,7 +686,9 @@ Bir mum diğer bir mumu tutuşturmakla ateşinden bir şey kaybetmez.
 ###AcikDersMalzemeleri-OpenCourse-Ve-Moduller
 
 
-Burada  Türkçe ve İngilizce opencourse lar ,ders materyalleri  bulunmaktadır. 
+Burada  Türkçe ve İngilizce opencourse lar ,ders materyalleri  bulunmaktadır.Özellikle  ingilizce   derslerde
+çok güzel ders anlatımları bulunmaktadır.Mutlaka incelemenizi tavsiye ederim.Megep modullerinde de hem bilgi-
+sayar hemde elektronikle ilgili cok güzel dökünmanlar bulunmaktadır.
 
 
   İngilizce Olanlar   
